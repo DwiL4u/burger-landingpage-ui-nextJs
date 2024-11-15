@@ -26,7 +26,7 @@ const Delivery = () => {
             order is carefully packed to maintain the perfect temperature and
             quality of your meal. We use insulated packaging to keep the burgers
             juicy and the fries crispy, so you can enjoy the same delicious
-            taste as if you were dining in. Whether you're ordering for a quick
+            taste as if you were dining in. Whether you are ordering for a quick
             lunch or a late-night craving, we guarantee a smooth and speedy
             delivery experience, making sure your food arrives just the way you
             like it.
